@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\Универ\4 Курс\Технология командной разработки ПО\Проект\project_rezak\project_rezak\MyForm.cpp(196,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  project_rezak.vcxproj -> D:\Универ\4 Курс\Технология командной разработки ПО\Проект\project_rezak\x64\Debug\project_rezak.exe

@@ -1,0 +1,8 @@
+C:\cv\project_rezak\project_rezak\x64\Debug\project_rezak.vcxproj.AssemblyReference.cache
+C:\cv\project_rezak\project_rezak\x64\Debug\projectrezak.MyForm.resources
+C:\cv\project_rezak\project_rezak\x64\Debug\project_rezak.vcxproj.GenerateResource.cache
+D:\Универ\4 Курс\Технология командной разработки ПО\Проект\project_rezak\project_rezak\x64\Debug\project_rezak.vcxproj.AssemblyReference.cache
+D:\Универ\4 Курс\Технология командной разработки ПО\Проект\project_rezak\project_rezak\x64\Debug\project_rezak.vcxproj.SuggestedBindingRedirects.cache
+D:\Универ\4 Курс\Технология командной разработки ПО\Проект\project_rezak\project_rezak\x64\Debug\projectrezak.MyForm.resources
+D:\Универ\4 Курс\Технология командной разработки ПО\Проект\project_rezak\project_rezak\x64\Debug\project_rezak.vcxproj.GenerateResource.cache
+D:\Универ\4 Курс\Технология командной разработки ПО\Проект\project_rezak\project_rezak\x64\Debug\project_rezak.vcxproj.CopyComplete
